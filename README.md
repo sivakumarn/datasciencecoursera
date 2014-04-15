@@ -1,7 +1,7 @@
 datasciencecoursera
 ===================
 
-Coursea Data Science 
+Coursera Data Science 
 
 This is Sivaa Nethaji
 
